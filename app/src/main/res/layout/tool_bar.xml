@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/my_toolbar"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@drawable/ic_rectangle_2"
+    android:elevation="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    android:gravity="center"
+    >
+
+    <View
+        android:id="@+id/rectangle_3"
+        android:layout_width="265dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="40pt"
+        android:background="@drawable/ic_group_477"
+        android:layout_marginLeft="40pt" />
+
+
+</com.google.android.material.appbar.MaterialToolbar>

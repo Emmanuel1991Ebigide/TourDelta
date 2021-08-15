@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TourDelta</string>
+    <string name="home_menu">Home</string>
+    <string name="search_menu">Search</string>
+    <string name="book_menu">Book</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
